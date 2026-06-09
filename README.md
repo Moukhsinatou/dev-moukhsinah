@@ -22,7 +22,8 @@ Je suis Ngoné Faye
 
 - Application de gestion de Dahira
  https://github.com/Moukhsinatou/SAHAADA-ONLINE
-- Event Manager (Angular + Laravel)
+- Application de gestion des commande d'une micro entreprise de vente d'ordinateur
+  https://github.com/Moukhsinatou/Rendez-tech.git
 - Gestionnaire de tâches de projets publics
   ## Contact
 
